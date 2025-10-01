@@ -1,7 +1,7 @@
 # LUAC Compiler v1.0.0 - by iManGaaX
 
 ## Program Overview
-**LUAC Compiler** is a desktop application (built with Electron) designed to convert **Lua** files for **Multi Theft Auto: San Andreas (MTA)** into **.luac** files ready for use and distribution. The application provides a drag-and-drop interface for folders and files, options for obfuscation level, debug mode, and exporting the resulting project as a single file or a ZIP archive. It also supports automatic updates via GitHub and notifies the user when a new version is available.
+**LUAC Compiler** is a desktop application, Designed to convert **Lua** files for **Multi Theft Auto: San Andreas (MTA)** into **.luac** files ready for use and distribution. The application support encryption of backup files instead of file-by-file and provides a drag-and-drop interface for folders and files, options for obfuscation level, debug mode, and exporting the resulting project as a single file or a ZIP archive. It also supports automatic updates via GitHub and notifies the user when a new version is available.
 
 ## Key Features
 - User-friendly GUI built.
