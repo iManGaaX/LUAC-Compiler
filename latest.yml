@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: LUAC-Compiler-Setup-1.0.0.exe
+    sha512: 6ynyByRsxAzN/KxrRiKbeM05dWROUAPOaMJqJ1XARzIlCp3oNo3QBhQtaQcNtgL4gzpHYzEBInTvO0bMLwLNJQ==
+    size: 89632232
+path: LUAC-Compiler-Setup-1.0.0.exe
+sha512: 6ynyByRsxAzN/KxrRiKbeM05dWROUAPOaMJqJ1XARzIlCp3oNo3QBhQtaQcNtgL4gzpHYzEBInTvO0bMLwLNJQ==
+releaseDate: '2025-10-01T08:37:36.684Z'
