@@ -14,7 +14,7 @@
 - Progress bar and status updates for each file with retry logic on failures.
 
 ## System Requirements
-- Operating System: Windows x32 & Windows x64
+- Operating System: Windows 7 and above.
 - Internet connection: required for compilation (uses external endpoint) and for fetching updates from GitHub.
 
 ## Usage Guide (User)
